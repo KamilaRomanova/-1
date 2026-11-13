@@ -60,7 +60,7 @@
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
               "resource": {
-                "@id": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/%D0%93%D0%90%D0%A0%D0%A4_5325_9_223_30_27.jpeg",
+                "@id": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/%D0%93%D0%90%D0%A0%D0%A4_5325_9_30_27.jpeg",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
                 "width": 2480,
