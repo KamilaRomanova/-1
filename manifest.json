@@ -1,0 +1,139 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Архивный документ",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/canvas/1",
+          "@type": "sc:Canvas",
+          "label": "Страница 1",
+          "width": 2480,
+          "height": 3508,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/%D0%93%D0%90%D0%A0%D0%A4_5325_9_223_30_25.jpeg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 3508
+              },
+              "on": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/canvas/1"
+            }
+          ]
+        },
+        {
+          "@id": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/canvas/2",
+          "@type": "sc:Canvas",
+          "label": "Страница 2",
+          "width": 2480,
+          "height": 3508,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/%D0%93%D0%90%D0%A0%D0%A4_5325_9_223_30_26.jpeg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 3508
+              },
+              "on": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/canvas/2"
+            }
+          ]
+        },
+        {
+          "@id": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/canvas/3",
+          "@type": "sc:Canvas",
+          "label": "Страница 3",
+          "width": 2480,
+          "height": 3508,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/%D0%93%D0%90%D0%A0%D0%A4_5325_9_223_30_27.jpeg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 3508
+              },
+              "on": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/canvas/3"
+            }
+          ]
+        },
+        {
+          "@id": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/canvas/4",
+          "@type": "sc:Canvas",
+          "label": "Страница 4",
+          "width": 2480,
+          "height": 3508,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/%D0%93%D0%90%D0%A0%D0%A4_5325_9_223_30_28.jpeg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 3508
+              },
+              "on": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/canvas/4"
+            }
+          ]
+        },
+        {
+          "@id": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/canvas/5",
+          "@type": "sc:Canvas",
+          "label": "Страница 5",
+          "width": 2480,
+          "height": 3508,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/%D0%93%D0%90%D0%A0%D0%A4_5325_9_223_30_29.jpeg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 3508
+              },
+              "on": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/canvas/5"
+            }
+          ]
+        },
+        {
+          "@id": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/canvas/6",
+          "@type": "sc:Canvas",
+          "label": "Страница 6",
+          "width": 2480,
+          "height": 3508,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/%D0%93%D0%90%D0%A0%D0%A4_5325_9_223_30_30.jpeg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "width": 2480,
+                "height": 3508
+              },
+              "on": "https://raw.githubusercontent.com/KamilaRomanova/-1/main/canvas/6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
